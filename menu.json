@@ -8,5 +8,97 @@
         "name": "Fenntartható Leves",
         "description": "Helyi szezonális alapanyagokból készült tápláló leves.",
         "image": "soup.jpg"
+    },
+    {
+        "name": "Fenntartható Tészta",
+        "description": "Friss, házi készítésű tészta, helyi paradicsomszósszal és bazsalikommal.",
+        "image": "pasta.jpg"
+    },
+    {
+        "name": "Fenntartható Desszert",
+        "description": "Bio alapanyagokból készült, házi sütemény, amely a fenntarthatóság jegyében készült.",
+        "image": "dessert.jpg"
+    },
+    {
+        "name": "Fenntartható Pizzaszelet",
+        "description": "Helyi alapanyagokból készült finom pizzaszelet, friss mozzarella-val és bazsalikommal.",
+        "image": "pizza_slice.jpg"
+    },
+    {
+        "name": "Fenntartható Töltött Káposzta",
+        "description": "Bio húsból és helyi zöldségekből készült töltött káposzta.",
+        "image": "stuffed_cabbage.jpg"
+    },
+    {
+        "name": "Fenntartható Rakott Krumpli",
+        "description": "Friss, helyi burgonyából készült rakott krumpli, amit a fenntarthatóság jegyében készítünk.",
+        "image": "potato_casserole.jpg"
+    },
+    {
+        "name": "Fenntartható Grillezett Zöldségek",
+        "description": "Szezonális zöldségekből készült grillezett köret.",
+        "image": "grilled_vegetables.jpg"
+    },
+    {
+        "name": "Fenntartható Tavaszi Tekercs",
+        "description": "Friss zöldségekkel töltött tavaszi tekercs, házi szósszal.",
+        "image": "spring_rolls.jpg"
+    },
+    {
+        "name": "Fenntartható Sült Tofu",
+        "description": "Helyi alapanyagokból készült, ropogósra sült tofu, házi szósszal.",
+        "image": "fried_tofu.jpg"
+    },
+    {
+        "name": "Fenntartható Kertészleves",
+        "description": "Friss, szezonális zöldségekből készült, ínycsiklandó kertészleves.",
+        "image": "garden_soup.jpg"
+    },
+    {
+        "name": "Fenntartható Lencsefalafel",
+        "description": "Bio lencséből készült falafel, helyi zöldségekkel és joghurtos öntettel.",
+        "image": "lentil_falafel.jpg"
+    },
+    {
+        "name": "Fenntartható Pörkölt",
+        "description": "Helyi húsokból készült pörkölt, amelyet friss, szezonális körettel tálalunk.",
+        "image": "stew.jpg"
+    },
+    {
+        "name": "Fenntartható Csicseriborsó Ragu",
+        "description": "Ínycsiklandó csicseriborsó ragu, helyi fűszerekkel és zöldségekkel.",
+        "image": "chickpea_stew.jpg"
+    },
+    {
+        "name": "Fenntartható Vegetáriánus Burgonya Gratin",
+        "description": "Friss burgonyából készült, fűszeres vegetáriánus gratin.",
+        "image": "vegetarian_gratin.jpg"
+    },
+    {
+        "name": "Fenntartható Quinoa Saláta",
+        "description": "Quinoa alapú saláta, helyi zöldségekkel és egy könnyed, citromos öntettel.",
+        "image": "quinoa_salad.jpg"
+    },
+    {
+        "name": "Fenntartható Kókuszos Rizs",
+        "description": "Friss, kókusztejjel készült ínycsiklandó rizs, helyi fűszerekkel.",
+        "image": "coconut_rice.jpg"
+    },
+    {
+        "name": "Fenntartható Cékla Saláta",
+        "description": "Friss, sült céklából készült saláta, amit helyi, bio alapanyagokkal tálalunk.",
+        "image": "beetroot_salad.jpg"
+    },
+    {
+        "name": "Fenntartható Zöldséges Lasagne",
+        "description": "Házi készítésű lasagne, szezonális zöldségekkel és házi paradicsomszósszal.",
+        "image": "vegetable_lasagna.jpg"
+    },
+    {
+        "name": "Fenntartható Pesto Tészta",
+        "description": "Friss, házi készítésű pesto szósszal készült tészta, helyi bazsalikommal és fenyőmaggal.",
+        "image": "pesto_pasta.jpg"
     }
+
+    
 ]
