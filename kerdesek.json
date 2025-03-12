@@ -1,0 +1,224 @@
+{
+    "1": {
+      "question": "Mikor szoktál felkelni hétvégente?",
+      "answers": [
+        {
+          "option": "Általában koránkelő vagyok, legkésőbb 7-kor már ébren vagyok.",
+          "value": 1
+        },
+        {
+          "option": "Korán kelni? Soha! Ha lehet, akkor délnél előbb fel sem kelek.",
+          "value": 2
+        },
+        {
+          "option": "Rosszull alszom, ezért mindig addig alszom, amíg csak lehet.",
+          "value": 3
+        }
+      ]
+    },
+    "2": {
+      "question": "Szoktál esténként nassolni?",
+      "answers": [
+        {
+          "option": "Egy jó film vagy sorozat, egy pizza, chips vagy pattogatott kukorica… ez az ideális esti program. ;)",
+          "value": 3
+        },
+        {
+          "option": "Igen, de ha lehet, akkor aszalt gyümölcsöt vagy olajos magvakat.",
+          "value": 2
+        },
+        {
+          "option": "Este sosem. Vigyázok az alakomra!",
+          "value": 1
+        }
+      ]
+    },
+    "3": {
+      "question": "Mennyit sportolsz?",
+      "answers": [
+        {
+          "option": "A sport az életem. Minden nap van valami: edzés, futás, aerobic…",
+          "value": 1
+        },
+        {
+          "option": "Heti 3 alkalommal biztos. Szeretek mozogni.",
+          "value": 2
+        },
+        {
+          "option": "Biztos, hogy nem. Lustaság fél egészség!",
+          "value": 3
+        }
+      ]
+    },
+    "4": {
+      "question": "Mi a kedvenc sportod?",
+      "answers": [
+        {
+          "option": "Csapatjátékok leginkább",
+          "value": 1
+        },
+        {
+          "option": "Az egyszemélyes sportok híve vagyok",
+          "value": 2
+        },
+        {
+          "option": "Sport? Mi is az?",
+          "value": 3
+        }
+      ]
+    },
+    "5": {
+      "question": "Mi az, amit a legszívesebben megennél most?",
+      "answers": [
+        {
+          "option": "Egy jó steak vagy oldalas, ha lehet hasábbal és egy kis salátával.",
+          "value": 2
+        },
+        {
+          "option": "Egy lazacfilé salátával és dresszinggel jólesne most.",
+          "value": 1
+        },
+        {
+          "option": "Elég lesz egy csokitorta is, köszönöm!",
+          "value": 3
+        }
+      ]
+    },
+    "6": {
+      "question": "Milyen táplálékkiegészítőket szedsz rendszeresen?",
+      "answers": [
+        {
+          "option": "Az meg mi?",
+          "value": 3
+        },
+        {
+          "option": "Vitaminokat, abból is inkább C-, D vitamin.",
+          "value": 2
+        },
+        {
+          "option": "Pro- és prebiotikumokat, vitaminokat és proteint, ha edzek.",
+          "value": 1
+        }
+      ]
+    },
+    "7": {
+      "question": "Mennyi húst eszel egy héten?",
+      "answers": [
+        {
+          "option": "Legalább 4-5 kg-ot biztosan. Kell az erő.",
+          "value": 3
+        },
+        {
+          "option": "Általában 2 kg, vagy annál kevesebb.",
+          "value": 2
+        },
+        {
+          "option": "Nem eszem húst, vegetáriánus vagyok.",
+          "value": 1
+        }
+      ]
+    },
+    "8": {
+      "question": "Próbáltad már a húshelyettesítő termékeket?",
+      "answers": [
+        {
+          "option": "Igen, nekem ízlett.",
+          "value": 1
+        },
+        {
+          "option": "Nem, minek? Ha húst akarok enni, akkor azt eszem.",
+          "value": 3
+        },
+        {
+          "option": "Igen, de nem az én világom.",
+          "value": 2
+        }
+      ]
+    },
+    "9": {
+      "question": "Mennyi tejterméket fogyasztasz?",
+      "answers": [
+        {
+          "option": "Minden, ami tej, sajt, az jöhet. Bármennyi, bármikor.",
+          "value": 3
+        },
+        {
+          "option": "Csak akkor, ha megkívánom. Amúgy nem vagyok nagy sajtos.",
+          "value": 2
+        },
+        {
+          "option": "Nem eszem ilyesmit. Ha igen, az is inkább növényi.",
+          "value": 1
+        }
+      ]
+    },
+    "10": {
+      "question": "Tudod mit jelent a mikrobiom?",
+      "answers": [
+        {
+          "option": "A velünk élő mikróbák, ezek egy része a bélrendszerben található jótékony baktériumok.",
+          "value": 1
+        },
+        {
+          "option": "A bélben található rossz baktériumok.",
+          "value": 2
+        },
+        {
+          "option": "Nem tudom mi az, de nem is szeretem ezeket a latin szavas dolgokat.",
+          "value": 3
+        }
+      ]
+    },
+    "11": {
+      "question": "Mennyi vizet iszol egy nap?",
+      "answers": [
+        {
+          "option": "1,5 L lecsúszik nagy nehezen.",
+          "value": 2
+        },
+        {
+          "option": "Inkább Cola, Fanta, Hell. Ez számít?",
+          "value": 3
+        },
+        {
+          "option": "2-2,5 L napi szinten megvan.",
+          "value": 1
+        }
+      ]
+    },
+    "12": {
+      "question": "Mennyi a képernyőidőd a telefonodon egy hét alatt?",
+      "answers": [
+        {
+          "option": "50 óra fölött",
+          "value": 3
+        },
+        {
+          "option": "25 óra vagy alatta",
+          "value": 1
+        },
+        {
+          "option": "50 és 25 óra között",
+          "value": 2
+        }
+      ]
+    },
+    "13": {
+      "question": "Hogy alszol el?",
+      "answers": [
+        {
+          "option": "Lefekvés előtt olvasok egy könyvet vagy beszélgetek a szüleimmel/tesómmal, alváskor sötét a szobám.",
+          "value": 1
+        },
+        {
+          "option": "Tévézek vagy zenét hallgatok előtte.",
+          "value": 2
+        },
+        {
+          "option": "Tévére, zenére alszom el és (ha van) éjjeli fénnyel alszom.",
+          "value": 3
+        }
+      ]
+    }
+  }
+  
