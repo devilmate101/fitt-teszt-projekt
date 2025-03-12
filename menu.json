@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Fenntartható Saláta",
+        "description": "Bio zöldségekből készült friss saláta, amely helyi gazdaságokat támogató alapanyagokból készül.",
+        "image": "salad.jpg"
+    },
+    {
+        "name": "Fenntartható Leves",
+        "description": "Helyi szezonális alapanyagokból készült tápláló leves.",
+        "image": "soup.jpg"
+    }
+]
