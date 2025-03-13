@@ -7,76 +7,82 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
-    color: white;
-    padding: 1rem 0;
-    text-align: center;
+background-color: #4CAF50;
+color: white;
+padding: 1rem 0;
+text-align: center;
 }
 
 nav ul {
-    list-style: none;
-    padding: 0;
+list-style: none;
+padding: 0;
 }
 
 nav ul li {
-    display: inline;
-    margin: 0 1rem;
+display: inline;
+margin: 0 1rem;
 }
 
 nav ul li a {
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
+color: white;
+text-decoration: none;
+font-weight: bold;
 }
 
 section {
-    padding: 2rem;
-    margin: 1rem auto;
-    max-width: 800px;
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+padding: 2rem;
+margin: 1rem auto;
+max-width: 800px;
+background-color: white;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-footer{
-    text-align: center;
-    background-color: #4CAF50;
-    border: 2px solid black;
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
-=======
-=======
->>>>>>> 1eaa28a384bba78b24297d76d84f4ef617169063
+footer {
+text-align: center;
+background-color: #4CAF50;
+border: 2px solid black;
+color: white;
+font-family: 'Times New Roman', Times, serif;
+padding: 1rem 0;
+}
+
 .question {
-    margin-bottom: 1.5rem;
+margin-bottom: 1.5rem;
 }
 
 label {
-    display: block;
-    margin-bottom: 0.5rem;
+display: block;
+margin-bottom: 0.5rem;
 }
 
 #submit-button {
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    padding: 0.5rem 1rem;
-    cursor: pointer;
-    border-radius: 5px;
+background-color: #4CAF50;
+color: white;
+border: none;
+padding: 0.5rem 1rem;
+cursor: pointer;
+border-radius: 5px;
 }
 
 #submit-button:hover {
-    background-color: #45a049;
+background-color: #45a049;
 }
 
 #result {
-    font-size: 1.2rem;
-    font-weight: bold;
-    color: #4CAF50;
-<<<<<<< HEAD
->>>>>>> 1eaa28a384bba78b24297d76d84f4ef617169063
-=======
->>>>>>> 1eaa28a384bba78b24297d76d84f4ef617169063
+font-size: 1.2rem;
+font-weight: bold;
+color: #4CAF50;
+}
+
+h1 {
+font-size: 2rem;
+}
+
+ol {
+padding-left: 20px;
+}
+
+li {
+margin: 10px 0;
 }
