@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Az egészséges táplálkozás 12 pontja
 
 Az egészséges táplálkozás alapjai
@@ -52,4 +53,60 @@ A vörös húsokat (marha, sertés) próbáljuk elkerülni, és inkább a fehér
 
 12. A mozgás elengedhetetlen
 
+=======
+Az egészséges táplálkozás 12 pontja
+
+Az egészséges táplálkozás alapjai
+
+Az egészséges táplálkozásról számos tanácsot találunk, melyek sokszor egymásnak ellentmondanak. Éppen ezért, hogy segítsünk eligazodni, készítettünk egy tizenkét pontos listát, ami irányt mutat. Mi az egészséges táplálkozás lényege?
+
+Rengeteg próbálkozás létezik, hogy összefoglalják, hogyan érdemes étkezni, de a szakirodalom sokszor zűrzavaros és ellentmondásos. Mindenki szeretne egészségesen élni, de konkrét útmutatás nélkül ez gyakran nehezen kivitelezhető, hiszen nem mindenki szakértő a táplálkozásban.
+
+1. A változatosság a kulcs
+
+Érdemes minél többféle ételt beiktatni az étrendünkbe, különböző elkészítési módokkal. Ne ragaszkodjunk állandóan a megszokott ételeinkhez, próbáljunk ki új ízeket! Ha nem tetszik valami, az sem baj – csak próbáljuk ki, és utána döntünk. A változatos étrend segít abban, hogy minden szükséges tápanyagot megkapjon a szervezetünk.
+
+2. A zsírokat tartsuk kordában!
+
+Próbáljunk kevesebb zsíros ételt fogyasztani, és inkább olívaolajat használjunk a főzéshez. Különösen a keveset mozgó, ülő munkát végzők számára fontos, hogy figyeljenek erre. Részesítsük előnyben a gőzölést, párolást, vagy ha lehetséges, a teflon edényekben vagy fóliában való főzést a zsiradékkal való sütés helyett. A rántás helyett inkább használjunk kevesebb liszttel készült habarásokat.
+
+3. Csökkentsük a sót!
+
+A sót használjuk mérsékelten, és ne sózzuk utólag az ételt. A mérsékelten sós íz hamar megszokható. Különösen figyeljünk a gyermekek sófogyasztására, mert ez életük során meghatározhatja ízpreferenciájukat. Válasszunk alacsonyabb sótartalmú készételeket, és ízesítsük az ételt különböző fűszerekkel.
+
+4. Az édességek csak alkalmanként
+
+Édességet csak az étkezések végén együnk, legfeljebb heti egy vagy két alkalommal. Ne cseréljük ki étkezéseket édességgel. A cukrot próbáljuk minimalizálni, és ahol csak lehet, használjunk alternatív édesítőszereket, mint méz, nyírfacukor vagy sztívia. Igyunk inkább friss gyümölcs- vagy zöldséglevet, és ha kávézunk, teába inkább mesterséges édesítőt használjunk.
+
+5. Tejtermékek minden nap
+
+Fogyasszunk napi rendszerességgel savanyított tejtermékeket, mint túró, joghurt, kefir vagy sajt. Válasszuk a kevésbé zsíros változatokat.
+
+6. A gyümölcsök és zöldségek legyenek a mindennapok részei
+
+Naponta többször is fogyasszunk friss gyümölcsöt, zöldséget, akár saláták formájában, akár párolva. Télen sem kell nélkülöznünk őket!
+
+7. A gabonák és köretek szerepe
+
+Mindig válasszunk teljes kiőrlésű gabonákból készült termékeket, például barna kenyeret. Köretként a párolt zöldségeket részesítsük előnyben a krumpli vagy tészta helyett. Használjunk olyan gabonaféléket, amelyek vitaminokban és ásványi anyagokban gazdagok, mint a köles, hajdina vagy zab.
+
+8. Többszöri étkezés a nap folyamán
+
+Naponta négyszer-ötször étkezzünk, és próbáljuk meg elkerülni a túl bőséges vagy túl kevés étkezéseket. A napi étkezéseinket egyenletesen osszuk el, és étkezzünk nyugodt környezetben, nem kapkodva. Ha lehetséges, tartsunk egy rendszeres étkezési menetrendet.
+
+9. A megfelelő hidratálás fontos!
+
+A legjobb módja a szomjúság enyhítésének a tiszta víz. Az alkohol és a szeszes italok nemcsak károsak, hanem felesleges kalóriákat is adnak. Különösen fontos, hogy gyermekek számára kerülni kell az alkoholt, még kis mennyiségben is.
+
+10. Nincsenek teljesen tiltott ételek!
+
+Az egészséges táplálkozás nem jelenti azt, hogy bármit is teljesen ki kellene zárni, de célszerű előnyben részesíteni bizonyos ételeket. A gyümölcsöket, zöldségeket, halat és barna kenyeret bátran fogyaszthatjuk. Mértékkel fogyasszunk olyan ételeket, mint a sovány húsok, tejtermékek és zsiradékok. Kerüljük az édességeket, cukros üdítőket és zsíros ételeket.
+
+11. A vörös húsok helyett inkább a fehér húsok!
+
+A vörös húsokat (marha, sertés) próbáljuk elkerülni, és inkább a fehér húsokat válasszuk, mint a halat vagy a szárnyasokat. A mediterrán konyha remek recepteket kínál a halak elkészítésére olívaolajjal, gyors sütéssel.
+
+12. A mozgás elengedhetetlen
+
+>>>>>>> 1eaa28a384bba78b24297d76d84f4ef617169063
 Még a legjobb táplálkozás mellett is fontos, hogy rendszeresen mozogjunk és figyeljünk a súlykontrollra. A testtömeg mérése segíthet nyomon követni, hogy megfelelő-e az energia- és tápanyagfelhasználásunk, és hogy a kívánt testtömeget elértük-e.
